@@ -3,6 +3,3 @@ this is the first file in this repository
 
 ~aryan~
 
-*bad code*
-*bad code*
-*bad code*
